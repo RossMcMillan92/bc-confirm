@@ -10,6 +10,7 @@ Notifies the user when a bitcoin transaction has had a certain amount of confirm
 ```
 
 ## Usage
+![Bitcoin Confirmation Example](https://raw.githubusercontent.com/RossMcMillan92/bitcoin-confirmations/master/images/example.png)
 ```
 > node index.js <transaction-hash>
 ```
