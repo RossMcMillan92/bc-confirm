@@ -3,8 +3,11 @@ Notifies the user when a bitcoin transaction has had a certain amount of confirm
 
 ## Installation
 ```git clone https://github.com/RossMcMillan92/bitcoin-confirmations```
+
 ```cd bitcoin-confirmations```
+
 ```npm install```
+
 ```node index.js```
 
 ## Usage
@@ -15,4 +18,5 @@ Notifies the user when a bitcoin transaction has had a certain amount of confirm
 ```node index.js <transaction-hash> <target-confirmations> <timeout-length>```
 
 ```<target-confirmations>```: Amount of confirmations to reach before being notified. Default: 3
+
 ```<timeout-length>```: Timeout between pings. Default: 60s
