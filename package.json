@@ -1,19 +1,21 @@
 {
   "name": "bc-confirm",
   "version": "1.0.0",
-  "description": "",
+  "description": "Notifies the user when a bitcoin transaction has had a certain amount of confirmations",
   "main": "index.js",
   "dependencies": {
     "data.task": "^3.1.1",
-    "fetch": "^1.1.0",
     "isomorphic-fetch": "^2.2.1",
-    "node-notifier": "^5.0.2",
-    "node-webcrawler": "^0.8.0"
+    "node-notifier": "^5.0.2"
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ross McMillan",
-  "license": "ISC"
+  "author": "rossmcmillan92",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RossMcMillan92/bc-confirm"
+  },
 }
