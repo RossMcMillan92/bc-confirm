@@ -1,6 +1,8 @@
 # Bitcoin Confirmations
 Notifies the user when a bitcoin transaction has had a certain amount of confirmations. Uses [blockr.io](blockr.io) API.
 
+![Bitcoin Confirmation Example](https://raw.githubusercontent.com/RossMcMillan92/bitcoin-confirmations/master/images/example.png)
+
 ## Installation
 ```
 > git clone https://github.com/RossMcMillan92/bitcoin-confirmations
@@ -10,7 +12,6 @@ Notifies the user when a bitcoin transaction has had a certain amount of confirm
 ```
 
 ## Usage
-![Bitcoin Confirmation Example](https://raw.githubusercontent.com/RossMcMillan92/bitcoin-confirmations/master/images/example.png)
 ```
 > node index.js <transaction-hash>
 ```
