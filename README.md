@@ -1,5 +1,7 @@
 # Bitcoin Confirmations
-Notifies the user when a bitcoin transaction has had a certain amount of confirmations. Uses [blockr.io](blockr.io) API.
+Notifies the user when a bitcoin transaction has had a certain amount of confirmations. Uses [blockr.io](https://blockr.io) API.
+
+![Bitcoin Confirmation Example](https://raw.githubusercontent.com/RossMcMillan92/bitcoin-confirmations/master/images/example.png)
 
 ## Installation
 ```
